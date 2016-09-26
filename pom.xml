@@ -8,7 +8,7 @@
 	<version>0.0.1.SNAPSHOT</version>
 
 	<name>sparklr-boot</name>
-	<description>Demo project</description>
+	<description>Demo project Modified</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
